@@ -1,0 +1,80 @@
+body {
+    background-color: white;
+  }
+  h1 {
+    color: salmon;
+    font-size: 36px;
+    font-weight: 200;
+    font-style: italic;
+    text-align: center;
+    background-color: #0d1523;
+  }
+
+  h2 {
+    color: black;
+    font-size: 26px;
+    font-style: italic;
+    margin: 15px;
+  }
+
+  h3 {
+    color: darkcyan;
+    font-size: 26px;
+    font-style: italic;
+    margin: 15px;
+  }
+
+  h4 {
+    color: coral;
+    font-size: 26px;
+    font-style: italic;
+    margin: 15px;
+  }
+
+  p {
+    font-size: 18px;
+    color: black;
+    color: white;
+    margin: 15px;
+  }
+
+
+  #work-paragraph {
+    color: yellow;
+  }
+
+  body {
+        background-image:url(../images/Torrevieja.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed;
+        background: url(../images/Torrevieja.jpg), no-repeat, cover, center, fixed;
+        height: 200vh;
+  }
+
+  button {
+    background-color:#0d1523;
+    color: lightcoral;
+    text-align: center;
+    font-style: normal;
+    padding: 10px;
+    margin: 15px;
+    border-color: white;
+    border-radius: 5px 5px 5px 5px;
+    box-shadow: 5px 5px 70px 10px white;
+  }
+  button:hover {
+    background-color: aqua;
+    color: black;
+  }
+
+
+
+
+
+ 
+
+
+
+  
